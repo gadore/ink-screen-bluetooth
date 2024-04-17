@@ -39,3 +39,7 @@ node app.js
 ````
 
 *Happy hacking ~*
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gadore/ink-screen-bluetooth&type=Date)](https://star-history.com/#gadore/ink-screen-bluetooth&Date)
