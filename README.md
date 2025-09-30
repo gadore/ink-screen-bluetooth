@@ -1,8 +1,18 @@
 # ink-screen-bluetooth
 
+## 2025-09-30 更新，goldTrending.js 单体文件
+调用方式：在任何一个 Linux 或者 Windows 或者MacOS等系统上，配置定时器调用即可
+
+以 Ubuntu 为例，使用 Crontab 配置：
+```
+# m h  dom mon dow   command
+0 9-17/1 * * 1-5 node /path/to/goldTrending.js
+```
+需要 NodeJS 18 及以上
 
 
-当前的脚本仅能控制特殊型号的产品，并不是通用的蓝牙墨水屏控制程序哦
+## app.js 为服务端程序版本，会保持在线
+当前的脚本仅能控制特殊型号的产品（具体型号见文章截图），并不是通用的蓝牙墨水屏控制程序哦
 
 
 希望大家都能爱上这种Hack产品的喜悦感
