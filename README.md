@@ -8,7 +8,7 @@
 # m h  dom mon dow   command
 0 9-17/1 * * 1-5 node /path/to/goldTrending.js
 ```
-需要 NodeJS 18 及以上
+需要 NodeJS 18 及以上，记得安装 npm 依赖！
 
 
 ## app.js 为服务端程序版本，会保持在线
